@@ -1,0 +1,7 @@
+*{box-sizing: border-box;}
+body#corpo{
+    background-color: grey;
+    margin:0%;
+
+}
+div#divcorp{background-color: rgb(64, 197, 11); min-width:500px; min-height:300px; border:5px black solid;}
